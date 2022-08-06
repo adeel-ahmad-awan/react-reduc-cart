@@ -8,6 +8,7 @@ I have usedthe following concepts.
 - using multiple reducers for state management
 - handling http states and feedback with redux
 - using action creator "THUNK"
+- handling async code in side-effects
 
 
 ### Screen shots
