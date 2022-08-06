@@ -13,18 +13,13 @@ I have usedthe following concepts.
 
 ### Screen shots
 
-default UI
+home page
 ![Screen shot 1](screenshots/1.png "Screen shot 1")
 
-UI after login.
+Added item to the cart, which also sends to server.
 ![Screen shot with empty input](screenshots/2.png "Screen shot with empty input")
 
-UI with changing counter
+home page with Cart
 ![Screen shot with empty input](screenshots/3.png "Screen shot with empty input")
-
-
-UI with toggle counter
-![Screen shot with empty input](screenshots/4.png "Screen shot with empty input")
-
 
 
