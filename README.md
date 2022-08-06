@@ -6,6 +6,8 @@ I have usedthe following concepts.
 - using redux and redux-toolkit for state management 
 - use single data store for redux
 - using multiple reducers for state management
+- handling http states and feedback with redux
+- using action creator "THUNK"
 
 
 ### Screen shots
